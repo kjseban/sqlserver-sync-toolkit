@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Archives and build output
+*.zip
+dist/
+
+# SQL Server artifacts
+*.bak
+*.mdf
+*.ldf
