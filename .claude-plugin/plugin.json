@@ -1,0 +1,14 @@
+{
+  "name": "sqlserver-sync-toolkit",
+  "displayName": "SQL Server Sync Toolkit",
+  "description": "Design, generate and review incremental SQL Server data-sync procedures: watermarks, Change Tracking, safe MERGE, transactions and error logging.",
+  "version": "0.1.0",
+  "author": {
+    "name": "kjseban",
+    "url": "https://github.com/kjseban"
+  },
+  "homepage": "https://github.com/kjseban/sqlserver-sync-toolkit",
+  "repository": "https://github.com/kjseban/sqlserver-sync-toolkit",
+  "license": "MIT",
+  "keywords": ["sql-server", "t-sql", "merge", "data-sync", "etl", "change-tracking"]
+}

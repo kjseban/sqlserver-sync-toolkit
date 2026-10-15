@@ -1,0 +1,12 @@
+{
+  "name": "kjseban-plugins",
+  "description": "Claude plugins for SQL Server and .NET developers by kjseban.",
+  "owner": { "name": "kjseban" },
+  "plugins": [
+    {
+      "name": "sqlserver-sync-toolkit",
+      "source": "./",
+      "description": "Design, generate and review incremental SQL Server data-sync procedures."
+    }
+  ]
+}
